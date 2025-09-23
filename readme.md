@@ -1,4 +1,4 @@
-# Proyecto Individual Data Analytics
+# Proyecto Data Analytics
 
 Análisis de alternativas de inversión en instrumentos bursátiles referenciados al índice S&P500.
 
